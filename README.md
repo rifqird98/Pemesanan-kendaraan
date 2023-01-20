@@ -23,3 +23,5 @@ panduan penggunaan aplikasi :
 
 
 		
+![class_diagram](https://user-images.githubusercontent.com/39339773/213682081-0db049ad-3176-479c-8f5c-31f4f1476c12.jpg)
+![physical_model](https://user-images.githubusercontent.com/39339773/213682085-32bf7e32-5d7e-4f67-9834-c5c990d95b5e.jpg)
