@@ -4,7 +4,7 @@ import database mysql
 2. ubah .env.example ke .env
 3. php artisan key:generate
 4. php artisan serve
-==============================================
+======================================================================================================================================================================
 username : admin   : administrator@gmail.com
 	     Atasan1 : achmad@gmail.com
 	     Atasan2 : hana@gamil.com  
